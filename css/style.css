@@ -41,7 +41,9 @@ input.nosubmit {
   color: white;
 }
 
-
+.status{
+  color: black;
+}
 
 input:focus{
   outline: none;
